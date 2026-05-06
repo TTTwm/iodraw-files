@@ -40,14 +40,14 @@
         <mxCell id="0n-h2wxHfY3-aej9iyeN-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="240" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0n-h2wxHfY3-aej9iyeN-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="0n-h2wxHfY3-aej9iyeN-2" value="Industrial Camera: Sony IMX540" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0n-h2wxHfY3-aej9iyeN-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0n-h2wxHfY3-aej9iyeN-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
