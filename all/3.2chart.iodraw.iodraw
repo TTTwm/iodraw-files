@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Data Augmentation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="170" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0n-h2wxHfY3-aej9iyeN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="0n-h2wxHfY3-aej9iyeN-0">
           <mxGeometry relative="1" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Grayscale Conversion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="260" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0n-h2wxHfY3-aej9iyeN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0n-h2wxHfY3-aej9iyeN-0" target="WIyWlLk6GJQsqaUBKTNV-11">
+        <mxCell id="0n-h2wxHfY3-aej9iyeN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0n-h2wxHfY3-aej9iyeN-0" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0n-h2wxHfY3-aej9iyeN-0" value="&lt;span style=&quot;line-height: 150%; font-family: Arial, sans-serif;&quot; lang=&quot;EN-GB&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Preprocessing and Enhancement&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
