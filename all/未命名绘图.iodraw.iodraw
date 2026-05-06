@@ -19,6 +19,9 @@
         <mxCell id="0n-h2wxHfY3-aej9iyeN-2" value="Industrial Camera: Sony IMX540" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="60" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="0n-h2wxHfY3-aej9iyeN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0n-h2wxHfY3-aej9iyeN-3" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0n-h2wxHfY3-aej9iyeN-3" value="LED Line Light Source" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="60" width="120" height="50" as="geometry" />
         </mxCell>
