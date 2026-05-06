@@ -58,6 +58,9 @@
         <mxCell id="0n-h2wxHfY3-aej9iyeN-18" value="Horizontal Flip" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="460" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="0n-h2wxHfY3-aej9iyeN-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0n-h2wxHfY3-aej9iyeN-21" target="0n-h2wxHfY3-aej9iyeN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0n-h2wxHfY3-aej9iyeN-21" value="Random Rotation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="460" width="120" height="50" as="geometry" />
         </mxCell>
