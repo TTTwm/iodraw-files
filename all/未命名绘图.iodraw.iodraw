@@ -17,7 +17,7 @@
           <mxGeometry x="170" y="260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0n-h2wxHfY3-aej9iyeN-2" value="Industrial Camera: Sony IMX540" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="60" width="120" height="50" as="geometry" />
+          <mxGeometry x="10" y="60" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0n-h2wxHfY3-aej9iyeN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0n-h2wxHfY3-aej9iyeN-3" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="330" y="60" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0n-h2wxHfY3-aej9iyeN-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="190" width="320" height="50" as="geometry" />
+          <mxGeometry x="70" y="110" width="320" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
